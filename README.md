@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 个人简介 👋
+- Language：C、Cpp
+- 个人网站：[https://laofucode.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
+### 数据统计 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1AoB)](https://github.com/pythonsir/github-readme-stats)
+
 <!--
 **1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
