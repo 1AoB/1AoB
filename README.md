@@ -2,7 +2,8 @@
 
 ### 个人简介 👋
 - Language：C、Cpp
-- 个人网站：[https://laofucode.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
+- 个人网站：[https://csdn.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
+- 个人网站2：[https://wxn.netlify.app](https://wxn.netlify.app/)
 ### 数据统计 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1AoB)](https://github.com/pythonsir/github-readme-stats)
 
