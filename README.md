@@ -21,6 +21,8 @@
 ### 数据统计 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1AoB)](https://github.com/pythonsir/github-readme-stats)
 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+
 <!--
 **1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
