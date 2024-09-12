@@ -16,7 +16,7 @@
 | **Domain Knownledge** | [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) |
 | **CI / CD**           | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp; ![Static Badge](https://img.shields.io/badge/-Vs%20Code-007ACC)&nbsp; ![Static Badge](https://img.shields.io/badge/-Visual%20Studio%202019-007ACC)&nbsp; ![Static Badge](https://img.shields.io/badge/-Visual%20Studio%202022-007ACC) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite) |
-|                       |                                                              |
+
 
 ### 数据统计 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1AoB)](https://github.com/pythonsir/github-readme-stats)
