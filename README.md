@@ -2,11 +2,17 @@
 
 ### 个人简介 👋
 - Language：C、Cpp
+
 - 个人网站：[https://csdn.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
+
 It records the small details encountered in the programming process.
+
 - 个人网站2：[https://wxn.netlify.app](https://wxn.netlify.app/)
+
 It is deployed by Netlify.
+
 - 个人网站3：[https://gitee.com](https://gitee.com/nzjyb)
+
 It carries a lot of small exercises.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+1AoB;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things;C%2B%2B+learning+enthusiast)](https://git.io/typing-svg)
