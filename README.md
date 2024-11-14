@@ -3,7 +3,7 @@
 ### 个人简介 👋
 - Language：C、Cpp
 
-- personal website：[https://csdn.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
+- personal website 1：[https://csdn.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
 - Personal Website 2：[https://wxn.netlify.app](https://wxn.netlify.app/)
 - Personal Website 3：[https://gitee.com](https://gitee.com/nzjyb)
 
