@@ -28,6 +28,8 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1AoB&layout=compact)
 
+你是来我页面的第 ![Profile Views](https://komarev.com/ghpvc/?username=1AoB&color=blueviolet) 个人。
+
 <!--
 **1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
