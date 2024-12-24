@@ -22,9 +22,11 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 
 
 ### 数据统计 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1AoB)](https://github.com/pythonsir/github-readme-stats)
+![1AoB's GitHub stats](https://github-readme-stats.vercel.app/api?username=1AoB&show_icons=true)
 
+### Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1AoB&layout=compact)
 
 <!--
 **1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
