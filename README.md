@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 个人简介 👋
+### Welcome to my GitHub 👋
 - Language：C、Cpp
 
 - personal website 1：[https://csdn.com](https://blog.csdn.net/weixin_52668597?spm=1000.2115.3001.5343)
