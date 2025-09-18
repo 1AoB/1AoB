@@ -22,7 +22,7 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 
 
 ### 数据统计 
-![1AoB's GitHub stats](https://github-readme-stats.vercel.app/api?username=1AoB&show_icons=true)
+![1AoB's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1AoB&show_icons=true)
 
 ### Top Languages
 
