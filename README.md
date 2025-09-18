@@ -26,8 +26,7 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 
 ### Top Languages
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=1AoB&layout=compact](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact&langs_count=16&theme=dracula))
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact&langs_count=16&theme=dracula)
 
 <!--
 **1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
