@@ -26,7 +26,7 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1AoB&layout=compact)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=1AoB&layout=compact](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact&langs_count=16&theme=dracula))
 
 
 <!--
