@@ -43,6 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![`1AoB`'s GitHub stats](https://moe-counter.glitch.me/get/@1AoB.github.readme)-->
-
+![`1AoB`'s GitHub stats](https://count.getloli.com/get/@1AoB.github.readme)
 
