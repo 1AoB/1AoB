@@ -27,27 +27,11 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 <!--
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact&langs_count=16&theme=dracula)
 -->
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=default">
     <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-
-<!--
-**1AoB/1AoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</picture>  
+  
 ![`1AoB`'s GitHub stats](https://count.getloli.com/get/@1AoB.github.readme)
 
