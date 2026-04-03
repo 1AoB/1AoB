@@ -27,11 +27,11 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 <!--
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact&langs_count=16&theme=dracula)
 -->
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=1AoB&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=1AoB&show_icons=true&count_private=true&theme=default">
     <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=1AoB&show_icons=true&count_private=true&theme=default" height="200px">
-</picture>  
+</picture>   -->
   
 ![`1AoB`'s GitHub stats](https://count.getloli.com/get/@1AoB.github.readme)
 
