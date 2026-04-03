@@ -33,5 +33,5 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
     <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=1AoB&show_icons=true&count_private=true&theme=default" height="200px">
 </picture>   -->
   
-![`1AoB`'s GitHub stats](https://count.getloli.com/get/@1AoB.github.readme)
+![`1AoB`'s GitHub count](https://count.getloli.com/get/@1AoB.github.readme)
 
