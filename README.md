@@ -20,7 +20,9 @@ There is another website here：[https://wxn.neocities.org/](https://wxn.neociti
 | **CI / CD**           | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/1AoB/1AoB) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp; ![Static Badge](https://img.shields.io/badge/-Vs%20Code-007ACC)&nbsp; ![Static Badge](https://img.shields.io/badge/-Visual%20Studio%202019-007ACC)&nbsp; ![Static Badge](https://img.shields.io/badge/-Visual%20Studio%202022-007ACC) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite) |
 
+## GitHub Activity
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/1AoB)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1AoB&layout=compact)
